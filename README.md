@@ -10,7 +10,7 @@ _Dosen Pengampu: Rakhmad Maulidi, S.Kom., M.Kom_
 
 Aplikasi konsol **GoWisata** dikembangkan menggunakan bahasa C++ dengan menerapkan pola **Abstract Data Type (ADT) Prosedural** sesuai standar Modul Praktikum Struktur Data Fakultas Informatika (School of Computing) Telkom University.
 
-Pada **Tahap 1 **, sistem berfokus pada struktur data **Single Linked List** untuk menyimpan data tiket dan pengunjung, dilengkapi algoritma pencarian **Sequential Search** ($O(n)$) dan pengurutan **Selection Sort** ($O(n^2)$).
+Pada **Tahap 1**, sistem berfokus pada struktur data **Single Linked List** untuk menyimpan data tiket dan pengunjung, dilengkapi algoritma pencarian **Sequential Search** ($O(n)$) dan pengurutan **Selection Sort** ($O(n^2)$).
 
 ---
 
@@ -55,7 +55,7 @@ Pada **Tahap 1 **, sistem berfokus pada struktur data **Single Linked List** unt
 
 ---
 
-## 🛠️ Cara Kompilasi & Menjalankan
+## Cara Kompilasi & Menjalankan
 
 ```powershell
 # Kompilasi
